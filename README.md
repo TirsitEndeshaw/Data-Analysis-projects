@@ -1,2 +1,7 @@
-# Hello-World
-Data Analysis is what I am diving now. SQL and Excel are a great tools for data analysis tasks. I am excited to work with data analysis projects and developing problem solving softwares.
+# Data Analysis Journey
+
+I love the way Data visualisation can tell the story in simple ways. I am enjoying every step of the journey. 
+
+Data Analysis is what I am diving now. SQL and Excel are a great tools for data analysis tasks. I am excited to work with data analysis projects and developing problem solving analysis and presenting the visualization to tell the story.
+
+Loved further diving to Python and Tableau best tooldata Analysis. 
