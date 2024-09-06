@@ -4,4 +4,4 @@ I love the way Data visualisation can tell the story in simple ways. I am enjoyi
 
 Data Analysis is what I am diving now. SQL and Excel are a great tools for data analysis tasks. I am excited to work with data analysis projects and developing problem solving analysis and presenting the visualization to tell the story.
 
-Loved further diving to Python and Tableau best tooldata Analysis. 
+Further diving to Python, Tableau, PowerBI is helping enhancing my skills with data Analysis tools. 
